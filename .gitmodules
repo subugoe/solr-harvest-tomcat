@@ -1,0 +1,3 @@
+[submodule "solr-harvest-config"]
+	path = solr-harvest-config
+	url = git@github.com:subugoe/solr-harvest.git
